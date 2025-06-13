@@ -36,3 +36,11 @@ I'll create a responsive web application that allows users to input their resume
    - Provides guidance on what information to enter
 
 To use the resume builder, simply fill in the form fields on the left, click "Update Preview" to see your changes, and then "Download as Word" to get your resume in Word format.
+
+
+![image](https://github.com/user-attachments/assets/a92bddb0-0cb3-466a-8af4-1fffe53d1e03)
+![image](https://github.com/user-attachments/assets/217d60d7-1a5f-4772-8612-2ff43523a09d)
+![image](https://github.com/user-attachments/assets/0699b367-a821-4457-96dd-40f9ed2f5b1d)
+
+
+
